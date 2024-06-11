@@ -1,16 +1,14 @@
-
 # Olá, eu sou o Paulo! 👋
 # Hello, I'm Paulo! 👋
 
 ## 🚀 Sobre mim / About Me
 Estudante de Engenharia de Software na Universidade Tecnológica Federal do Paraná, prestes a concluir meu curso. No meu tempo livre, gosto de jogar Bloons Tower Defense.
-Software Engineering student at the Federal Technological University of Paraná, about to finish my degree. In my free time, I enjoy playing Bloons Tower Defense.
 
+Software Engineering student at the Federal Technological University of Paraná, about to finish my degree. In my free time, I enjoy playing Bloons Tower Defense.
 
 ## 🛠 Habilidades / Skills
 
 🛠🛠🛠🛠🛠
-
 
 ## Outros / Others
 
