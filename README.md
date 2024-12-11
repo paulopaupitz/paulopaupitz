@@ -26,7 +26,7 @@ Software Engineering student at the Federal Technological University of Paraná,
 
 ## Outros / Others
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={paulopaupitz}&theme=blue-green)" alt="Langs">
+
 
 ## 🔗 Links
 
