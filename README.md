@@ -6,11 +6,9 @@ Estudante de Engenharia de Software na Universidade Tecnológica Federal do Para
 
 Software Engineering student at the Federal Technological University of Paraná, about to finish my degree. In my free time, I enjoy playing Bloons Tower Defense.
 
-## 🛠 Habilidades / Skills
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
-
-<div style="display: flex; gap: 10px;">
+## Linguagens
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -18,9 +16,17 @@ Software Engineering student at the Federal Technological University of Paraná,
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
 </div>
 
+## Ferramentas e IDEs
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+</div>
+
 ## Outros / Others
 
-🛠🛠🛠🛠🛠
+<img src="https://img.shields.io/github/last-commit/{paulopaupitz}/{repo-name}.svg" alt="Last Commit">
 
 ## 🔗 Links
 
