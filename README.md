@@ -8,7 +8,7 @@ Software Engineering student at the Federal Technological University of Paraná,
 
 ## 🛠 Habilidades / Skills
 
-[![Python]((https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))]
+[(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
 
 ## Outros / Others
 
