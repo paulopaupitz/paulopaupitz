@@ -36,7 +36,6 @@ Software Engineering student at the Federal Technological University of Paraná.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
 ## IAs
 
@@ -44,11 +43,9 @@ Software Engineering student at the Federal Technological University of Paraná.
 ![Gemini Pro](https://img.shields.io/badge/Gemini%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable.dev-FF6B9D?style=for-the-badge&logo=heart&logoColor=white)
 
----
 
 ## Outros / Others
 
----
 
 ## 🔗 Links
 
