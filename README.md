@@ -5,7 +5,9 @@
 Estudante de Engenharia de Software na Universidade Tecnológica Federal do Paraná. No meu tempo livre, gosto de jogar Bloons Tower Defense.
 
 Software Engineering student at the Federal Technological University of Paraná. In my free time, I enjoy playing Bloons Tower Defense.
+
 *Embrace mediocrity*
+
 ## Linguagens
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
